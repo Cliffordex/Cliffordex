@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Cliffordex
+
+Software engineer focused on systems, backend development, and
+low-level/technical problem solving.
+
+## What I Do
+
+- C# / .NET
+- TypeScript / React
+- Distributed and event-driven systems
+- Systems integration
+- Reverse engineering
+- Hardware/software integration
 
 <!--
 **Cliffordex/Cliffordex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
