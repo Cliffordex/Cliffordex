@@ -1,13 +1,12 @@
-# Hi, I'm Cliffordex 👋🏻
-
-Software engineer focused on systems, backend development, and
+# Senior Full-Stack Engineer / Reverse Engineer
+Focused on scalable systems and
 low-level/technical problem solving.
 
 ## What I Do 👨🏻‍💻
 
 - C# / .NET
 - TypeScript / React
-- Distributed and event-driven systems
+- Distributed and event-driven systems / APIs
 - Systems integration
 - Reverse engineering
 - Hardware/software integration
