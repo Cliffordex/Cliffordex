@@ -6,6 +6,12 @@ I’m a senior full-stack software engineer with a preference for **C#**, a back
 
 I build applications, APIs, and tools that help people get things done. I also enjoy the work that starts when the documentation ends: tracing behavior, decoding formats, and finding ways to keep useful software running.
 
+## What I'm up to
+
+I'm currently starting an indie space shooter focused on commanding a large warship through deliberate, tactical combat. I’m beginning with a focused playable scenario and building custom development tools alongside it.
+
+What tech do I want to learn next? [Rust](https://rust-lang.org/).
+
 ## A few problems I’ve worked on
 
 - **Legacy aviation systems:** Reverse engineering to keep an older system operational.
