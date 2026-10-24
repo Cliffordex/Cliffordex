@@ -1,32 +1,35 @@
-# Senior Full-Stack Engineer / Reverse Engineer
-Focused on scalable systems and
-low-level/technical problem solving.
+# Hey, I’m Cliffordex 👋
 
-## What I Do 👨🏻‍💻
+### Building useful tools. Figuring out undocumented systems.
 
-- C# / .NET
-- TypeScript / React
-- Distributed and event-driven systems / APIs
-- Systems integration
-- Reverse engineering
-- Hardware/software integration
+I’m a senior full-stack software engineer with a preference for **C#**, a background in systems integration, and a habit of investigating how things work underneath.
 
-## Ask me about
+I build applications, APIs, and tools that help people get things done. I also enjoy the work that starts when the documentation ends: tracing behavior, decoding formats, and finding ways to keep useful software running.
 
-- Technology 🖥️
-- Airplanes 🛩️
+## A few problems I’ve worked on
 
-<!--
-**Cliffordex/Cliffordex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Legacy aviation systems:** Reverse engineering to keep an older system operational.
+- **Scripting language translation:** Reverse engineered an older game’s binary scripting language to translate its scripts into Lua.
+- **Application and platform development:** APIs, event-driven systems, integrations, and the interfaces people use to work with them.
 
-Here are some ideas to get you started:
+My preferred toolkit is **C# / .NET**, alongside TypeScript, React, and whatever a particular system requires.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### [Structurizer](https://github.com/Cliffordex/Structurizer)
+
+A TypeScript validation engine for CSV, TSV, and JSON records. Define rules in YAML, separate valid and invalid records, and trace validation errors back to their source.
+
+### [JSAsm](https://github.com/Cliffordex/JSAsm)
+
+A browser-based assembler/interpreter and macro-based compiler. Originally built to learn jQuery; eventually, I removed the jQuery dependency.
+
+Apparently, my idea of a learning exercise involves stack pointers.
+
+## Beyond the day job
+
+I’m learning indie game development to broaden what I can build, with an emphasis on usable tools and interesting game design.
+
+I like RTS games, crafting games built around skill progression and making things, and talking about airplanes.
+
+🎧 Usually coding to power metal or video game OSTs. Some functions require a boss theme.
