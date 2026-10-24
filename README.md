@@ -59,4 +59,4 @@ I’m learning indie game development to broaden what I can build, with an empha
 
 I like RTS games, crafting games built around skill progression and making things, and talking about airplanes.
 
-🎧 Usually coding to power metal or video game OSTs. Some functions require a boss theme.
+🎧 Usually coding to power metal or video game OSTs. Some problems require a boss theme.
