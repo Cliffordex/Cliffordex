@@ -65,6 +65,6 @@ Apparently, my idea of a learning exercise involves stack pointers.
 
 I’m learning indie game development to broaden what I can build, with an emphasis on usable tools and interesting game design.
 
-I like RTS games, crafting games built around skill progression and making things, and talking about airplanes.
+Outside software, I’m a 📡 licensed amateur radio operator and 🛩️ fly airplanes. I also like management and strategy games.
 
 🎧 Usually coding to power metal or video game OSTs. Some problems require a boss theme.
