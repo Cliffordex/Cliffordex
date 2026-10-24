@@ -33,6 +33,12 @@ I'm currently starting an indie space shooter focused on commanding a large wars
 
 What tech do I want to learn next? [Rust](https://rust-lang.org/).
 
+## Professional work
+
+Much of my professional work lives in a private PaaS codebase. I’ve built workflow applications, systems integrations, and tooling to synchronize, validate, and deploy platform updates across customer environments.
+
+I can’t link that source code here, but it represents a substantial part of my engineering experience. The projects below are a selection of my independent tools, experiments, and current interests.
+
 ## A few problems I’ve worked on
 
 - **Legacy aviation systems:** Reverse engineering to keep an older system operational.
@@ -50,6 +56,8 @@ A TypeScript validation engine for CSV, TSV, and JSON records. Define rules in Y
 ### [JSAsm](https://github.com/Cliffordex/JSAsm)
 
 A browser-based assembler/interpreter and macro-based compiler. Originally built to learn jQuery; eventually, I removed the jQuery dependency.
+
+It's my first GitHub repository!
 
 Apparently, my idea of a learning exercise involves stack pointers.
 
