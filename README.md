@@ -1,4 +1,4 @@
-# Hey, I’m Cliffordex 👋
+# Hey, I’m Rex 👋
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="32" height="32" />
