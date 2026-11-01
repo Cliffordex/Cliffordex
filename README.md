@@ -29,7 +29,7 @@ I build applications, APIs, and tools that help people get things done. I also e
 
 ## What I'm up to
 
-I'm currently starting an indie space shooter focused on commanding a large warship through deliberate, tactical combat. I’m beginning with a focused playable scenario and building custom development tools alongside it.
+I'm currently working on a deep learning project for individualized profiling and imitating commands.
 
 What tech do I want to learn next? [Rust](https://rust-lang.org/).
 
